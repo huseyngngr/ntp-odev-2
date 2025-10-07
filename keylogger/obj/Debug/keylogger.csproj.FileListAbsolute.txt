@@ -1,0 +1,9 @@
+C:\Users\gungo\source\repos\keylogger\keylogger\bin\Debug\keylogger.exe.config
+C:\Users\gungo\source\repos\keylogger\keylogger\bin\Debug\keylogger.exe
+C:\Users\gungo\source\repos\keylogger\keylogger\bin\Debug\keylogger.pdb
+C:\Users\gungo\source\repos\keylogger\keylogger\obj\Debug\keylogger.csproj.AssemblyReference.cache
+C:\Users\gungo\source\repos\keylogger\keylogger\obj\Debug\keylogger.Properties.Resources.resources
+C:\Users\gungo\source\repos\keylogger\keylogger\obj\Debug\keylogger.csproj.GenerateResource.cache
+C:\Users\gungo\source\repos\keylogger\keylogger\obj\Debug\keylogger.csproj.CoreCompileInputs.cache
+C:\Users\gungo\source\repos\keylogger\keylogger\obj\Debug\keylogger.exe
+C:\Users\gungo\source\repos\keylogger\keylogger\obj\Debug\keylogger.pdb
